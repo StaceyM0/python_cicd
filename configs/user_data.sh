@@ -12,3 +12,6 @@ mkdir /var/log/flask_app
 touch /var/log/flask_app/flask_app.out.log
 touch /var/log/flask_app/flask_app.err.log
 supervisorctl reload
+
+y to everything 
+y to everything
