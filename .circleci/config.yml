@@ -25,3 +25,4 @@ workflows:
   aws-cli:
     jobs:
       - create-flask-ec2
+     
